@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Joseph Creollo",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/jcreollo00.png",
+    "email": "jcreollo@hawaii.edu",
+    "phone": "310-985-4513",
+    "website": "https://jcreollo00.github.io",
+    "summary": "I am currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2027. I am an extremely hard worker, and have a passion for understanding the structure of any coding language.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jcreollo00", "url": "http://github.com/jcreollo00"},
+      { "network": "linkedin", "username": "Joseph Creollo", "url": "www.linkedin.com/in/joseph-creollo-b3b91a2b3" },
+      { "network": "instagram", "username": "josephcreollo", "url": "https://www.instagram.com/josephcreollo/?igsh=Z251Z2k3OGl4aTNm&utm_source=qr" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Algorithms & Problem Solving" },
+    { "name": "Debugging" },
+    { "name": "Backend Developments & API's" },
+    { "name": "Physical Fitness" },
+    { "name": "Hiking / Running" }
   ],
   "skills": [
     {
