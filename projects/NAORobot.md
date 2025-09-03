@@ -13,6 +13,7 @@ summary: "Collaborated with two other Computer Science majors to program an NAO 
 as walking and facial recognition. Troubleshooted and refined the robot's code during weekly meetings.
 Presented our research at the S.U.R.F. research fair at KCC."
 ---
+<img class="img-fluid" src="../img/NAO robot .webp">
 
 The NAO Robot Project was the idea of using the coding language Python, and programming the NAO Robot to do human movements and facial recognition.
 Through much trials and errors, as well as researching how the NAOqi framework works, we eventually allowed the robot to recognize faces, and respond
