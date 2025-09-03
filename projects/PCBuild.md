@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/440023086_18023167157476501_4646025736450228532_n.jpeg
+image: img/pcbuild-2.jpg
 title: "PC Build"
 date: 2020
 published: true
