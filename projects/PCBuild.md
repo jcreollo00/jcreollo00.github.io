@@ -15,8 +15,6 @@ any hardware knowledge at all, I built my PC through pure will."
 ---
 <img class="img-fluid" src="../img/pc builder.webp">
 
-PC building has essentially brought me to where I am today. Without it, it would not have inspired me to pursue a career in software development, 
-as my thinking for CS stem'd from this build. Without any knowledge about PC's at all, I researched day and night to find the correct parts for 
-the entire thing. Whether it was the motherboard, GPU, CPU, ram, whatever the case I made sure that each piece fit perfectly with the other. Overall
-this experience shed a new light on the process of building such a highly sophisticated device. Allowing me to learn new skills such as hardware engineering,
-software configuration, troubleshooting, and cable management. 
+When the whole world went into isolation, everyone was inside. Whether they were finding new hobbies, rotting away in bed, or playing video games 24/7, we were all at home. During this time, I had no school, and no plans, so I played video games all day everyday. On my old gen Xbox One, I would be inches away from the screen playing all sorts of games, from Call of Duty, to Assassins Creed, to even horror games like outlast. During this time as well I was constantly watching youtube, which made me realize how much of a downgrade my console was compared to the PC's these big name streamers had. This gave me the idea, what if I could build my own?
+
+As a sophomore in high school, I worked at a fast food company surrounded by greasy food. But with nothing else on my mind, it gave me a mindset to push forward to. 
