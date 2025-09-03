@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/440023086_18023167157476501_4646025736450228532_n.jpeg
+image: img/kccfair-2.png
 title: "NAO Robot Project"
 date: 2024
 published: true
