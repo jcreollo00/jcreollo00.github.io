@@ -13,6 +13,7 @@ summary: "During covid-19, I needed a major upgrade for my gaming rig as I was s
 were rolling out, I decided to instead invest in something that will last me much longer, a brand new gaming rig built from the ground up. Without
 any hardware knowledge at all, I built my PC through pure will."
 ---
+<img class="img-fluid" src="../img/pc builder.webp">
 
 PC building has essentially brought me to where I am today. Without it, it would not have inspired me to pursue a career in software development, 
 as my thinking for CS stem'd from this build. Without any knowledge about PC's at all, I researched day and night to find the correct parts for 
