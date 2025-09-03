@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/image.png
+image: img/pokedex.png
 title: "Pokemon GUI"
 date: 2023
 published: true
