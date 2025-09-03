@@ -20,4 +20,5 @@ The NAO robot project was ta semester club for Kapiolani Community College that 
 Through trial and error, me and Justin using Python successfully coded up the NAO robot to greet and dismiss people with facial recognition. While it wasn't perfect, and we had an error where it would repeatedly say "Hello!", we still did a great job configuring human-like emotions within the robot. Our other Computer Science major Koa, coded up a way for the legs to go up a step. Using simply a math textbook, she successfully moved the robots joints to go into an upward motion. Together at the KCC surf fair, we successfully presented our work and demonstrated to hundreds of students how Python changed the NAO robots abilities. 
 
 As seen on the first slide of the "kccstem" instagram: https://www.instagram.com/p/C6xt3V3rohm/?igsh=NDU5eTJsY3ZlbXM5
+
 Github link: https://github.com/ICSatKCC/KCC-Robot-Projects/tree/main/Spring24
