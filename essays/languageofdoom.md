@@ -26,7 +26,7 @@ Comparing it to other languages such as Python, C, and C++, it is enormously a l
 
 ## ES6 as a Bridge 
 
-With prior knowledge to Javascript, learning ES6 was interesting to me on many levels. To me sometimes Javascript can feel clunky, but as I was reading, it seems knowing ES6 essentially allows for Typescript to feel more natural. I hadn't even realized that I had already been using much of ES6 before, such as using "let name = 'joseph';" and "const sum = 0;". Using ES6 allows for me to recognize more Typescript easily, and making it a lot more readable. While I am a very lazy coder, I should possibly in my free time learn and understand ES6 and its rules, as it will allow for me understand all the Typescript strictness, making it way less intimitading. 
+With prior knowledge to Javascript, learning ES6 was interesting to me on many levels. To me sometimes Javascript can feel clunky, but as I was reading, it seems knowing ES6 essentially allows for Typescript to feel more natural. I hadn't even realized that I had already been using much of ES6 before, such as using "let name = 'joseph';" and "const sum = 0;". Using ES6 allows for me to recognize more Typescript easily, and making it a lot more readable. While I am a very lazy coder, I should possibly in my free time learn and understand ES6 and its rules, as it will allow for me understand all the Typescript strictness, making it way less intimidating. 
 
 ## Final Thoughts
 
