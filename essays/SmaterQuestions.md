@@ -10,7 +10,7 @@ labels:
   - Smarter Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/TSvsJS.webp">
+<img width="200px" class="rounded float-start pe-4" src="../img/stacko.jpg">
 
 ## Introduction
 
