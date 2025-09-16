@@ -13,7 +13,7 @@ summary: "Collaborated with two other Computer Science majors to program an NAO 
 as walking and facial recognition. Troubleshooted and refined the robot's code during weekly meetings.
 Presented our research at the S.U.R.F. research fair at KCC."
 ---
-<img class="img-fluid" src="../img/NAO robot .webp" style="margin-bottom: 20px;">
+<img class="img-fluid" src="../img/NAO robot .webp">
 
 The NAO robot project was ta semester club for Kapiolani Community College that provided students with a chance to work with robots, and boost there knowledge of the coding language Python. The idea of working with NAO robots fascinated me as I never worked within robotics before, however I have definetely worked on Python. Joining the event, I was alonside two other computer science major students, Koa and Justin. With our mentor Lisa Miller, a ICS professor at KCC, she lead the way in how to begin and how eevrything works. She showed us how the NAOqi framework needed editing, how Python is used to design and coordinate how the joints move, and how the presentation for the KCC Surf fair would work. 
 
