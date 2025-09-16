@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "Vscode", "Eclipse", "Windows11" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Vscode", "Eclipse", "Windows11", "Claude-AI" ]
     }
   ],
   "education": [
