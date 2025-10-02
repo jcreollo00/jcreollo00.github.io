@@ -11,8 +11,8 @@ labels:
   - UI Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/html-js-css-website-coding.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/screenshot.png">
 
 ## Introduction
 
-Are c
+
