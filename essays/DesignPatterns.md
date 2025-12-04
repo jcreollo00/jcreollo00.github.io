@@ -12,7 +12,7 @@ labels:
   - NextAuth
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/design-patterns.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/designpatterns.png">
 
 ## Introduction
 
