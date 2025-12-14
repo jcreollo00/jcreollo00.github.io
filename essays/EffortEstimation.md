@@ -35,9 +35,27 @@ I learned that tasks involving new technologies took about 40-50% longer than fa
 
 ## AI Tool Usage
 
-Throughout the project, I used GitHub Copilot for code completion, boilerplate generation, and debugging assistance. It was especially helpful for repetitive code like form validation and basic database queries.
+Throughout the project, I used GitHub Copilot (GPT-4 model) for code completion, boilerplate generation, and debugging assistance. It was especially helpful for repetitive code like form validation and basic database queries.
 
-For example, when setting up the Prisma schema, I prompted Copilot to create a Tool model with relationships to Reviews. The generated schema was about 80% correct - I had to adjust some field types and constraints. For Issue #27, Copilot generated a basic API route structure in seconds, but I spent about 25 minutes reviewing, testing, and debugging to make it work with our specific database setup.
+**Representative Prompts:**
+
+*Prompt 1 - Prisma Schema:*
+```
+// Create a Prisma schema for a Tool model with name, description, 
+// category, averageRating, and relationship to Review model
+```
+
+*Prompt 2 - API Route:*
+```
+// POST endpoint to receive rating data and store in database using Prisma
+```
+
+*Prompt 3 - Form Validation:*
+```
+// Validate email format and password length requirements in Next.js form
+```
+
+For example, when setting up the Prisma schema, the generated code was about 80% correct - I had to adjust some field types and constraints. For Issue #27, Copilot generated a basic API route structure in seconds, but I spent about 25 minutes reviewing, testing, and debugging to make it work with our specific database setup.
 
 Across all milestones, my AI-assisted time broke down roughly as: 45 minutes prompt engineering, 15 minutes generation, and 90 minutes verification and debugging. About 20% of AI-generated code worked as-is, 45% needed minor edits, 25% required major refactoring, and 10% I rewrote manually.
 
