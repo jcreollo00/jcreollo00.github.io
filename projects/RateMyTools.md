@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/ratemytools-logo.png
+image: img/update_landingpage.png
 title: "RateMyTools - Educational Tool Review Platform"
-date: 2024
+date: 2025
 published: true
 labels:
   - Next.js
@@ -15,7 +15,7 @@ labels:
 summary: "Developed a comprehensive web application for UH students to review and compare educational tools. Led implementation of authentication, search functionality, and AI-powered content moderation. Collaborated with a team using Agile methodologies and modern web technologies."
 ---
 
-<img class="img-fluid" src="../img/ratemytools-screenshot.png">
+<img class="img-fluid" src="../img/update_landingpage.png">
 
 ## Project Overview
 
@@ -125,9 +125,9 @@ This project significantly expanded my full-stack development skills:
 ## Screenshots
 
 <div class="text-center p-4">
-  <img width="800px" src="../img/ratemytools-landing.png" class="img-thumbnail">
-  <img width="800px" src="../img/ratemytools-reviews.png" class="img-thumbnail">
-  <img width="800px" src="../img/ratemytools-compare.png" class="img-thumbnail">
+  <img width="800px" src="../img/update_landingpage.png" class="img-thumbnail">
+  <img width="800px" src="../img/update_ratepage.png" class="img-thumbnail">
+  <img width="800px" src="../img/update_individualpage.png" class="img-thumbnail">
 </div>
 
 ## Reflection
