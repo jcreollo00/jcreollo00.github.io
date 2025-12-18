@@ -143,4 +143,4 @@ This project has prepared me well for professional software development, giving 
 **Project Team:** Joseph Creollo, Kade Komeya, Henry Korver, Justin Iwata, Chase Tom  
 **Course:** ICS 314 - Software Engineering, Fall 2024  
 **GitHub Organization:** [https://github.com/kadekomeya/RateMyTools_SC](https://github.com/kadekomeya/RateMyTools_SC)  
-**My Contributions:** [https://github.com/kadekomeya/RateMyTools_SC/commits?author=jcreollo](https://github.com/kadekomeya/RateMyTools_SC/commits?author=jcreollo)
+**My Contributions:** [https://github.com/kadekomeya/RateMyTools_SC/commits?author=jcreollo](https://github.com/kadekomeya/RateMyTools_SC/commits?author=jcreollo00)
