@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jcreollo00", "url": "http://github.com/jcreollo00"},
-      { "network": "linkedin", "username": "Joseph Creollo", "url": "www.linkedin.com/in/joseph-creollo-b3b91a2b3" },
+      { "network": "linkedin", "username": "Joseph Creollo", "url": "https://www.linkedin.com/in/joseph-creollo-b3b91a2b3" },
       { "network": "instagram", "username": "josephcreollo", "url": "https://www.instagram.com/josephcreollo/?igsh=Z251Z2k3OGl4aTNm&utm_source=qr" }
     ]
   },
