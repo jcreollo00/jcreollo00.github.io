@@ -24,7 +24,7 @@ RateMyTools is a community-driven review platform designed specifically for Univ
 The platform features school-specific tool recommendations, advanced search capabilities, tool comparison functionality, and AI-powered content moderation to maintain a safe and constructive community environment.
 
 **Live Site:** [https://rate-my-tools-sc.vercel.app](https://rate-my-tools-sc.vercel.app)  
-**GitHub Repository:** [https://github.com/jcreollo00/RateMyTools_SC](https://github.com/jcreollo00/RateMyTools_SC)
+**GitHub Repository:** [https://github.com/kadekomeya/RateMyTools_SC](https://github.com/kadekomeya/RateMyTools_SC)
 
 ## My Contributions
 
@@ -140,6 +140,7 @@ Most importantly, this project reinforced that the best solutions often come fro
 
 This project has prepared me well for professional software development, giving me practical experience with modern web technologies, team collaboration tools, and the complete software development lifecycle from planning to deployment.
 
-**Project Team:** Joseph Creollo, [Teammate Names]  
+**Project Team:** Joseph Creollo, Kade Komeya, Henry Korver, Justin Iwata, Chase Tom  
 **Course:** ICS 314 - Software Engineering, Fall 2024  
-**Organization:** [https://github.com/kadekomeya/RateMyTools_SC](https://github.com/kadekomeya/RateMyTools_SC)
+**GitHub Organization:** [https://github.com/kadekomeya/RateMyTools_SC](https://github.com/kadekomeya/RateMyTools_SC)  
+**My Contributions:** [https://github.com/kadekomeya/RateMyTools_SC/commits?author=jcreollo](https://github.com/kadekomeya/RateMyTools_SC/commits?author=jcreollo)
