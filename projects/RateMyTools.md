@@ -24,7 +24,7 @@ RateMyTools is a community-driven review platform designed specifically for Univ
 The platform features school-specific tool recommendations, advanced search capabilities, tool comparison functionality, and AI-powered content moderation to maintain a safe and constructive community environment.
 
 **Live Site:** [https://rate-my-tools-sc.vercel.app](https://rate-my-tools-sc.vercel.app)  
-**GitHub Repository:** [https://github.com/kadekomeya/RateMyTools_SC](https://github.com/kadekomeya/RateMyTools_SC)
+**GitHub Repository:** [https://github.com/jcreollo00/RateMyTools_SC](https://github.com/jcreollo00/RateMyTools_SC)
 
 ## My Contributions
 
