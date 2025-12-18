@@ -4,7 +4,7 @@ type: essay
 title: "Being Effective in asking Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-10
-published: true
+published: false
 labels:
   - Stack Overflow
   - Smarter Questions
