@@ -4,7 +4,7 @@ type: essay
 title: "The Recipe for Better Code: Understanding Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-03
-published: true
+published: false
 labels:
   - Software Engineering
   - Design Patterns
